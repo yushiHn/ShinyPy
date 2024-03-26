@@ -1,5 +1,6 @@
 # This app is translated from Mastering Shinywidgets
 # https://mastering-shiny.org/basic-reactivity.html#reactive-expressions-1
+pip install shiny
 from shiny import App, render, ui
 from numpy import random
 
